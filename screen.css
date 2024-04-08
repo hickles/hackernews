@@ -1,1 +1,43 @@
 /* Add screen styles below */
+.orange-bg {
+  background-color: #ff6600;
+}
+
+body {
+  background-color: #f6f6ef;
+}  
+
+.site {
+ font-size: 16px;
+ margin-left: 4px;
+}
+
+.subnav {
+  font-size: 14px;
+  margin-left: 4px;
+}
+
+.login {
+  display: block;
+  margin-right: 4px;
+  font-size: 14px;
+}
+
+.triangle {
+    transform: translateY(-25%);
+    width: 0;
+    height: 0;
+    border-left: 4px solid transparent; 
+    border-right: 4px solid transparent; 
+    border-bottom: 10px solid gray; 
+  }
+
+.titleline {
+  font-size: 13px;
+  margin-left: 4px;
+}
+
+.link {
+  color: gray;
+  font-size: 11px;
+}
