@@ -3,7 +3,8 @@
   background-color: #ff6600;
 }
 
-center, br {
+center {
+  margin-top: 24px;
   background-color: #f6f6ef;
 }
 
