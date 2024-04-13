@@ -55,3 +55,7 @@ body {
   color: gray;
   font-size: 11px;
 }
+
+.start {
+  width: 0px;
+}
