@@ -3,6 +3,10 @@
   background-color: #ff6600;
 }
 
+center, br {
+  background-color: #f6f6ef;
+}
+
 body {
   margin-left: 96px;
   margin-right: 96px;
