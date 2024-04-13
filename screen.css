@@ -3,6 +3,10 @@
   background-color: #ff6600;
 }
 
+.rank {
+  color: gray;
+}
+
 center {
   margin-top: 24px;
   background-color: #f6f6ef;
