@@ -20,6 +20,7 @@ body {
 
 .post {
   background-color: #f6f6ef;
+  padding-top: 16px;
 }
 
 .site {
@@ -59,4 +60,8 @@ body {
 
 .start {
   width: 0px;
+}
+
+.more {
+  padding-top: 24px;
 }
